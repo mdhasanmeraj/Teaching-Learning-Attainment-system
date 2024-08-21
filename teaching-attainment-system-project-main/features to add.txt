@@ -1,0 +1,5 @@
+name of faculty
+
+subject name
+
+subject code
